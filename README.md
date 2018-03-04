@@ -1,6 +1,8 @@
 ## BoilerPlate - React and Redux
 - Created with create-react-app
 
-```
-npm run
+```javascript
+function add(x,y){
+  return x + y;
+ }
 ```
